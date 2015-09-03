@@ -1,0 +1,5 @@
+c:\users\shamy\documents\visual studio 2013\Projects\07.LoopsHomework\06.CalculateN!_K!\bin\Debug\06.CalculateN!_K!.exe.config
+c:\users\shamy\documents\visual studio 2013\Projects\07.LoopsHomework\06.CalculateN!_K!\bin\Debug\06.CalculateN!_K!.exe
+c:\users\shamy\documents\visual studio 2013\Projects\07.LoopsHomework\06.CalculateN!_K!\bin\Debug\06.CalculateN!_K!.pdb
+c:\users\shamy\documents\visual studio 2013\Projects\07.LoopsHomework\06.CalculateN!_K!\obj\Debug\06.CalculateN!_K!.exe
+c:\users\shamy\documents\visual studio 2013\Projects\07.LoopsHomework\06.CalculateN!_K!\obj\Debug\06.CalculateN!_K!.pdb

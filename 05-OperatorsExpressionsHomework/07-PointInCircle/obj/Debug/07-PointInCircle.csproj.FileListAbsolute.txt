@@ -1,0 +1,5 @@
+C:\Users\Shamy\Downloads\Operators-Expressions-HomeWork\_7-Point-In-Circle\bin\Debug\_7-Point-In-Circle.exe.config
+C:\Users\Shamy\Downloads\Operators-Expressions-HomeWork\_7-Point-In-Circle\obj\Debug\_7-Point-In-Circle.exe
+C:\Users\Shamy\Downloads\Operators-Expressions-HomeWork\_7-Point-In-Circle\obj\Debug\_7-Point-In-Circle.pdb
+C:\Users\Shamy\Downloads\Operators-Expressions-HomeWork\_7-Point-In-Circle\bin\Debug\_7-Point-In-Circle.exe
+C:\Users\Shamy\Downloads\Operators-Expressions-HomeWork\_7-Point-In-Circle\bin\Debug\_7-Point-In-Circle.pdb

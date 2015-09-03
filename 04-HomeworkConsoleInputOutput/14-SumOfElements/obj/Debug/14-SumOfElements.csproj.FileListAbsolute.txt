@@ -1,0 +1,8 @@
+D:\dokumenti\VisualStudio2013\04-HomeworkConsoleInputOutput\14-SumOfElements\bin\Debug\14-SumOfElements.exe.config
+D:\dokumenti\VisualStudio2013\04-HomeworkConsoleInputOutput\14-SumOfElements\bin\Debug\14-SumOfElements.exe
+D:\dokumenti\VisualStudio2013\04-HomeworkConsoleInputOutput\14-SumOfElements\bin\Debug\14-SumOfElements.pdb
+D:\dokumenti\VisualStudio2013\04-HomeworkConsoleInputOutput\14-SumOfElements\obj\Debug\14-SumOfElements.exe
+D:\dokumenti\VisualStudio2013\04-HomeworkConsoleInputOutput\14-SumOfElements\obj\Debug\14-SumOfElements.pdb
+C:\Users\Shamy\Downloads\04-HomeworkConsoleInputOutput\14-SumOfElements\bin\Debug\14-SumOfElements.exe.config
+C:\Users\Shamy\Downloads\04-HomeworkConsoleInputOutput\14-SumOfElements\obj\Debug\14-SumOfElements.exe
+C:\Users\Shamy\Downloads\04-HomeworkConsoleInputOutput\14-SumOfElements\obj\Debug\14-SumOfElements.pdb

@@ -1,0 +1,11 @@
+c:\users\unistudent\documents\visual studio 2013\Projects\ReformatHorribleCode\ReformatHorribleCode\bin\Debug\ReformatHorribleCode.exe.config
+c:\users\unistudent\documents\visual studio 2013\Projects\ReformatHorribleCode\ReformatHorribleCode\bin\Debug\ReformatHorribleCode.exe
+c:\users\unistudent\documents\visual studio 2013\Projects\ReformatHorribleCode\ReformatHorribleCode\bin\Debug\ReformatHorribleCode.pdb
+c:\users\unistudent\documents\visual studio 2013\Projects\ReformatHorribleCode\ReformatHorribleCode\obj\Debug\ReformatHorribleCode.exe
+c:\users\unistudent\documents\visual studio 2013\Projects\ReformatHorribleCode\ReformatHorribleCode\obj\Debug\ReformatHorribleCode.pdb
+C:\Users\UniStudent\Desktop\Homework\ReformatHorribleCode\ReformatHorribleCode\bin\Debug\ReformatHorribleCode.exe.config
+C:\Users\UniStudent\Desktop\Homework\ReformatHorribleCode\ReformatHorribleCode\obj\Debug\ReformatHorribleCode.exe
+C:\Users\UniStudent\Desktop\Homework\ReformatHorribleCode\ReformatHorribleCode\obj\Debug\ReformatHorribleCode.pdb
+C:\Users\UniStudent\Desktop\Homework\ReformatHorribleCode\ReformatHorribleCode\bin\Debug\ReformatHorribleCode.exe
+C:\Users\UniStudent\Desktop\Homework\ReformatHorribleCode\ReformatHorribleCode\bin\Debug\ReformatHorribleCode.pdb
+C:\Users\UniStudent\Desktop\Homework\ReformatHorribleCode\ReformatHorribleCode\obj\Debug\ReformatHorribleCode.csprojResolveAssemblyReference.cache

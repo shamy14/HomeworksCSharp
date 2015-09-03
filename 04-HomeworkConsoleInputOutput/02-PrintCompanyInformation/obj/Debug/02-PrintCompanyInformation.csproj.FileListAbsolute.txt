@@ -1,0 +1,8 @@
+D:\dokumenti\VisualStudio2013\04-HomeworkConsoleInputOutput\02-PrintCompanyInformation\bin\Debug\02-PrintCompanyInformation.exe.config
+D:\dokumenti\VisualStudio2013\04-HomeworkConsoleInputOutput\02-PrintCompanyInformation\bin\Debug\02-PrintCompanyInformation.exe
+D:\dokumenti\VisualStudio2013\04-HomeworkConsoleInputOutput\02-PrintCompanyInformation\bin\Debug\02-PrintCompanyInformation.pdb
+D:\dokumenti\VisualStudio2013\04-HomeworkConsoleInputOutput\02-PrintCompanyInformation\obj\Debug\02-PrintCompanyInformation.exe
+D:\dokumenti\VisualStudio2013\04-HomeworkConsoleInputOutput\02-PrintCompanyInformation\obj\Debug\02-PrintCompanyInformation.pdb
+C:\Users\Shamy\Downloads\04-HomeworkConsoleInputOutput\02-PrintCompanyInformation\bin\Debug\02-PrintCompanyInformation.exe.config
+C:\Users\Shamy\Downloads\04-HomeworkConsoleInputOutput\02-PrintCompanyInformation\obj\Debug\02-PrintCompanyInformation.exe
+C:\Users\Shamy\Downloads\04-HomeworkConsoleInputOutput\02-PrintCompanyInformation\obj\Debug\02-PrintCompanyInformation.pdb

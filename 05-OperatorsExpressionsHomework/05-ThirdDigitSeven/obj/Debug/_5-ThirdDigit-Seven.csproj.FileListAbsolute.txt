@@ -1,0 +1,8 @@
+D:\Work\Operators-Expressions-HomeWork\_5-ThirdDigit-Seven\bin\Debug\_5-ThirdDigit-Seven.exe.config
+D:\Work\Operators-Expressions-HomeWork\_5-ThirdDigit-Seven\bin\Debug\_5-ThirdDigit-Seven.exe
+D:\Work\Operators-Expressions-HomeWork\_5-ThirdDigit-Seven\bin\Debug\_5-ThirdDigit-Seven.pdb
+D:\Work\Operators-Expressions-HomeWork\_5-ThirdDigit-Seven\obj\Debug\_5-ThirdDigit-Seven.exe
+D:\Work\Operators-Expressions-HomeWork\_5-ThirdDigit-Seven\obj\Debug\_5-ThirdDigit-Seven.pdb
+C:\Users\Shamy\Downloads\Operators-Expressions-HomeWork\_5-ThirdDigit-Seven\bin\Debug\_5-ThirdDigit-Seven.exe.config
+C:\Users\Shamy\Downloads\Operators-Expressions-HomeWork\_5-ThirdDigit-Seven\obj\Debug\_5-ThirdDigit-Seven.exe
+C:\Users\Shamy\Downloads\Operators-Expressions-HomeWork\_5-ThirdDigit-Seven\obj\Debug\_5-ThirdDigit-Seven.pdb

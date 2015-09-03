@@ -1,0 +1,5 @@
+c:\users\shamy\documents\visual studio 2013\Projects\Console InputOutput\05FormattingNumbers\bin\Debug\05FormattingNumbers.exe.config
+c:\users\shamy\documents\visual studio 2013\Projects\Console InputOutput\05FormattingNumbers\bin\Debug\05FormattingNumbers.exe
+c:\users\shamy\documents\visual studio 2013\Projects\Console InputOutput\05FormattingNumbers\bin\Debug\05FormattingNumbers.pdb
+c:\users\shamy\documents\visual studio 2013\Projects\Console InputOutput\05FormattingNumbers\obj\Debug\05FormattingNumbers.exe
+c:\users\shamy\documents\visual studio 2013\Projects\Console InputOutput\05FormattingNumbers\obj\Debug\05FormattingNumbers.pdb

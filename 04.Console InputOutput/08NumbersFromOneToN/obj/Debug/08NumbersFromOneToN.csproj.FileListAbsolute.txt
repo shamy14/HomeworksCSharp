@@ -1,0 +1,5 @@
+c:\users\shamy\documents\visual studio 2013\Projects\Console InputOutput\08NumbersFromOneToN\bin\Debug\08NumbersFromOneToN.exe.config
+c:\users\shamy\documents\visual studio 2013\Projects\Console InputOutput\08NumbersFromOneToN\bin\Debug\08NumbersFromOneToN.exe
+c:\users\shamy\documents\visual studio 2013\Projects\Console InputOutput\08NumbersFromOneToN\bin\Debug\08NumbersFromOneToN.pdb
+c:\users\shamy\documents\visual studio 2013\Projects\Console InputOutput\08NumbersFromOneToN\obj\Debug\08NumbersFromOneToN.exe
+c:\users\shamy\documents\visual studio 2013\Projects\Console InputOutput\08NumbersFromOneToN\obj\Debug\08NumbersFromOneToN.pdb

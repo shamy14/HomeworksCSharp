@@ -1,0 +1,9 @@
+D:\Work\Operators-Expressions-HomeWork\_9-Trapezoids\bin\Debug\_9-Trapezoids.exe.config
+D:\Work\Operators-Expressions-HomeWork\_9-Trapezoids\bin\Debug\_9-Trapezoids.exe
+D:\Work\Operators-Expressions-HomeWork\_9-Trapezoids\bin\Debug\_9-Trapezoids.pdb
+D:\Work\Operators-Expressions-HomeWork\_9-Trapezoids\obj\Debug\_9-Trapezoids.csprojResolveAssemblyReference.cache
+D:\Work\Operators-Expressions-HomeWork\_9-Trapezoids\obj\Debug\_9-Trapezoids.exe
+D:\Work\Operators-Expressions-HomeWork\_9-Trapezoids\obj\Debug\_9-Trapezoids.pdb
+C:\Users\Shamy\Downloads\Operators-Expressions-HomeWork\_9-Trapezoids\bin\Debug\_9-Trapezoids.exe.config
+C:\Users\Shamy\Downloads\Operators-Expressions-HomeWork\_9-Trapezoids\obj\Debug\_9-Trapezoids.exe
+C:\Users\Shamy\Downloads\Operators-Expressions-HomeWork\_9-Trapezoids\obj\Debug\_9-Trapezoids.pdb

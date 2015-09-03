@@ -1,0 +1,12 @@
+C:\Users\Shamy\Downloads\Operators-Expressions-HomeWork\_1-OddOREvenIntegers\bin\Debug\_1-OddOREvenIntegers.exe.config
+C:\Users\Shamy\Downloads\Operators-Expressions-HomeWork\_1-OddOREvenIntegers\obj\Debug\_1-OddOREvenIntegers.exe
+C:\Users\Shamy\Downloads\Operators-Expressions-HomeWork\_1-OddOREvenIntegers\obj\Debug\_1-OddOREvenIntegers.pdb
+C:\Users\Shamy\Downloads\Operators-Expressions-Homework\01-OddOrEvenIntegers\bin\Debug\_1-OddOREvenIntegers.exe.config
+C:\Users\Shamy\Downloads\Operators-Expressions-Homework\01-OddOrEvenIntegers\obj\Debug\_1-OddOREvenIntegers.exe
+C:\Users\Shamy\Downloads\Operators-Expressions-Homework\01-OddOrEvenIntegers\obj\Debug\_1-OddOREvenIntegers.pdb
+C:\Users\Shamy\Downloads\OperatorsExpressionsHomework\01-OddOrEvenIntegers\bin\Debug\_1-OddOREvenIntegers.exe.config
+C:\Users\Shamy\Downloads\OperatorsExpressionsHomework\01-OddOrEvenIntegers\obj\Debug\_1-OddOREvenIntegers.exe
+C:\Users\Shamy\Downloads\OperatorsExpressionsHomework\01-OddOrEvenIntegers\obj\Debug\_1-OddOREvenIntegers.pdb
+D:\Shami\Programing Stuff\Homeworks\05-OperatorsExpressionsHomework\01-OddOrEvenIntegers\bin\Debug\_1-OddOREvenIntegers.exe.config
+D:\Shami\Programing Stuff\Homeworks\05-OperatorsExpressionsHomework\01-OddOrEvenIntegers\obj\Debug\_1-OddOREvenIntegers.exe
+D:\Shami\Programing Stuff\Homeworks\05-OperatorsExpressionsHomework\01-OddOrEvenIntegers\obj\Debug\_1-OddOREvenIntegers.pdb

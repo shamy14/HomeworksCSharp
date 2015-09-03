@@ -1,0 +1,9 @@
+D:\dokumenti\VisualStudio2013\04-HomeworkConsoleInputOutput\07-SumOfFiveNumbers\bin\Debug\07-SumOfFiveNumbers.exe.config
+D:\dokumenti\VisualStudio2013\04-HomeworkConsoleInputOutput\07-SumOfFiveNumbers\bin\Debug\07-SumOfFiveNumbers.exe
+D:\dokumenti\VisualStudio2013\04-HomeworkConsoleInputOutput\07-SumOfFiveNumbers\bin\Debug\07-SumOfFiveNumbers.pdb
+D:\dokumenti\VisualStudio2013\04-HomeworkConsoleInputOutput\07-SumOfFiveNumbers\obj\Debug\07-SumOfFiveNumbers.csprojResolveAssemblyReference.cache
+D:\dokumenti\VisualStudio2013\04-HomeworkConsoleInputOutput\07-SumOfFiveNumbers\obj\Debug\07-SumOfFiveNumbers.exe
+D:\dokumenti\VisualStudio2013\04-HomeworkConsoleInputOutput\07-SumOfFiveNumbers\obj\Debug\07-SumOfFiveNumbers.pdb
+C:\Users\Shamy\Downloads\04-HomeworkConsoleInputOutput\07-SumOfFiveNumbers\bin\Debug\07-SumOfFiveNumbers.exe.config
+C:\Users\Shamy\Downloads\04-HomeworkConsoleInputOutput\07-SumOfFiveNumbers\obj\Debug\07-SumOfFiveNumbers.exe
+C:\Users\Shamy\Downloads\04-HomeworkConsoleInputOutput\07-SumOfFiveNumbers\obj\Debug\07-SumOfFiveNumbers.pdb

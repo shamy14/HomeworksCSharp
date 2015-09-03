@@ -1,0 +1,14 @@
+c:\users\unistudent\documents\visual studio 2013\Projects\MyAgeAfterTenYears\MyAgeAfterTenYears\bin\Debug\MyAgeAfterTenYears.exe.config
+c:\users\unistudent\documents\visual studio 2013\Projects\MyAgeAfterTenYears\MyAgeAfterTenYears\bin\Debug\MyAgeAfterTenYears.exe
+c:\users\unistudent\documents\visual studio 2013\Projects\MyAgeAfterTenYears\MyAgeAfterTenYears\bin\Debug\MyAgeAfterTenYears.pdb
+c:\users\unistudent\documents\visual studio 2013\Projects\MyAgeAfterTenYears\MyAgeAfterTenYears\obj\Debug\MyAgeAfterTenYears.exe
+c:\users\unistudent\documents\visual studio 2013\Projects\MyAgeAfterTenYears\MyAgeAfterTenYears\obj\Debug\MyAgeAfterTenYears.pdb
+C:\Users\Shamy\Downloads\Homework\Homework_Parts\MyAgeAfterTenYears\MyAgeAfterTenYears\bin\Debug\MyAgeAfterTenYears.exe.config
+C:\Users\Shamy\Downloads\Homework\Homework_Parts\MyAgeAfterTenYears\MyAgeAfterTenYears\obj\Debug\MyAgeAfterTenYears.exe
+C:\Users\Shamy\Downloads\Homework\Homework_Parts\MyAgeAfterTenYears\MyAgeAfterTenYears\obj\Debug\MyAgeAfterTenYears.pdb
+C:\Users\Shamy\Downloads\Homework\Homework_Parts\MyAgeAfterTenYears\MyAgeAfterTenYears\bin\Debug\MyAgeAfterTenYears.exe
+C:\Users\Shamy\Downloads\Homework\Homework_Parts\MyAgeAfterTenYears\MyAgeAfterTenYears\bin\Debug\MyAgeAfterTenYears.pdb
+C:\Users\Shamy\Downloads\Homework\Homework_Parts\MyAgeAfterTenYears\MyAgeAfterTenYears\obj\Debug\MyAgeAfterTenYears.csprojResolveAssemblyReference.cache
+D:\Shami\Programing Stuff\Homeworks\Homework\Homework_Parts\MyAgeAfterTenYears\MyAgeAfterTenYears\bin\Debug\MyAgeAfterTenYears.exe.config
+D:\Shami\Programing Stuff\Homeworks\Homework\Homework_Parts\MyAgeAfterTenYears\MyAgeAfterTenYears\obj\Debug\MyAgeAfterTenYears.exe
+D:\Shami\Programing Stuff\Homeworks\Homework\Homework_Parts\MyAgeAfterTenYears\MyAgeAfterTenYears\obj\Debug\MyAgeAfterTenYears.pdb

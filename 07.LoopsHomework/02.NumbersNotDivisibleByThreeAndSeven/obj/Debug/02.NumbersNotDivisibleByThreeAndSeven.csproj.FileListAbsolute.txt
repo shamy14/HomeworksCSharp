@@ -1,0 +1,11 @@
+c:\users\shamy\documents\visual studio 2013\Projects\07.LoopsHomework\02.NumbersNotDivisibleByThreeAndSeven\bin\Debug\02.NumbersNotDivisibleByThreeAndSeven.exe.config
+c:\users\shamy\documents\visual studio 2013\Projects\07.LoopsHomework\02.NumbersNotDivisibleByThreeAndSeven\bin\Debug\02.NumbersNotDivisibleByThreeAndSeven.exe
+c:\users\shamy\documents\visual studio 2013\Projects\07.LoopsHomework\02.NumbersNotDivisibleByThreeAndSeven\bin\Debug\02.NumbersNotDivisibleByThreeAndSeven.pdb
+c:\users\shamy\documents\visual studio 2013\Projects\07.LoopsHomework\02.NumbersNotDivisibleByThreeAndSeven\obj\Debug\02.NumbersNotDivisibleByThreeAndSeven.exe
+c:\users\shamy\documents\visual studio 2013\Projects\07.LoopsHomework\02.NumbersNotDivisibleByThreeAndSeven\obj\Debug\02.NumbersNotDivisibleByThreeAndSeven.pdb
+D:\Shami\Programing Stuff\Homeworks\07.LoopsHomework\02.NumbersNotDivisibleByThreeAndSeven\bin\Debug\02.NumbersNotDivisibleByThreeAndSeven.exe.config
+D:\Shami\Programing Stuff\Homeworks\07.LoopsHomework\02.NumbersNotDivisibleByThreeAndSeven\obj\Debug\02.NumbersNotDivisibleByThreeAndSeven.exe
+D:\Shami\Programing Stuff\Homeworks\07.LoopsHomework\02.NumbersNotDivisibleByThreeAndSeven\obj\Debug\02.NumbersNotDivisibleByThreeAndSeven.pdb
+D:\Shami\Programing Stuff\Homeworks\07.LoopsHomework\02.NumbersNotDivisibleByThreeAndSeven\bin\Debug\02.NumbersNotDivisibleByThreeAndSeven.exe
+D:\Shami\Programing Stuff\Homeworks\07.LoopsHomework\02.NumbersNotDivisibleByThreeAndSeven\bin\Debug\02.NumbersNotDivisibleByThreeAndSeven.pdb
+D:\Shami\Programing Stuff\Homeworks\07.LoopsHomework\02.NumbersNotDivisibleByThreeAndSeven\obj\Debug\02.NumbersNotDivisibleByThreeAndSeven.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+D:\Work\Operators-Expressions-HomeWork\_12-ExtractBitfromInteger\bin\Debug\_12-ExtractBitfromInteger.exe.config
+D:\Work\Operators-Expressions-HomeWork\_12-ExtractBitfromInteger\bin\Debug\_12-ExtractBitfromInteger.exe
+D:\Work\Operators-Expressions-HomeWork\_12-ExtractBitfromInteger\bin\Debug\_12-ExtractBitfromInteger.pdb
+D:\Work\Operators-Expressions-HomeWork\_12-ExtractBitfromInteger\obj\Debug\_12-ExtractBitfromInteger.exe
+D:\Work\Operators-Expressions-HomeWork\_12-ExtractBitfromInteger\obj\Debug\_12-ExtractBitfromInteger.pdb
+C:\Users\Shamy\Downloads\Operators-Expressions-HomeWork\_12-ExtractBitfromInteger\bin\Debug\_12-ExtractBitfromInteger.exe.config
+C:\Users\Shamy\Downloads\Operators-Expressions-HomeWork\_12-ExtractBitfromInteger\obj\Debug\_12-ExtractBitfromInteger.exe
+C:\Users\Shamy\Downloads\Operators-Expressions-HomeWork\_12-ExtractBitfromInteger\obj\Debug\_12-ExtractBitfromInteger.pdb

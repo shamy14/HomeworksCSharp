@@ -1,0 +1,5 @@
+c:\users\shamy\documents\visual studio 2013\Projects\07.LoopsHomework\04.PrintADeckOf52Cards\bin\Debug\04.PrintADeckOf52Cards.exe.config
+c:\users\shamy\documents\visual studio 2013\Projects\07.LoopsHomework\04.PrintADeckOf52Cards\bin\Debug\04.PrintADeckOf52Cards.exe
+c:\users\shamy\documents\visual studio 2013\Projects\07.LoopsHomework\04.PrintADeckOf52Cards\bin\Debug\04.PrintADeckOf52Cards.pdb
+c:\users\shamy\documents\visual studio 2013\Projects\07.LoopsHomework\04.PrintADeckOf52Cards\obj\Debug\04.PrintADeckOf52Cards.exe
+c:\users\shamy\documents\visual studio 2013\Projects\07.LoopsHomework\04.PrintADeckOf52Cards\obj\Debug\04.PrintADeckOf52Cards.pdb

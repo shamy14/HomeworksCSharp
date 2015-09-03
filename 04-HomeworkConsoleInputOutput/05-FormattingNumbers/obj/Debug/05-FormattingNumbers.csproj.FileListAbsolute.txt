@@ -1,0 +1,6 @@
+D:\dokumenti\VisualStudio2013\04-HomeworkConsoleInputOutput\05-FormattingNumbers\bin\Debug\05-FormattingNumbers.exe.config
+C:\Users\Shamy\Downloads\04-HomeworkConsoleInputOutput\05-FormattingNumbers\bin\Debug\05-FormattingNumbers.exe.config
+C:\Users\Shamy\Downloads\04-HomeworkConsoleInputOutput\05-FormattingNumbers\bin\Debug\05-FormattingNumbers.exe
+C:\Users\Shamy\Downloads\04-HomeworkConsoleInputOutput\05-FormattingNumbers\bin\Debug\05-FormattingNumbers.pdb
+C:\Users\Shamy\Downloads\04-HomeworkConsoleInputOutput\05-FormattingNumbers\obj\Debug\05-FormattingNumbers.exe
+C:\Users\Shamy\Downloads\04-HomeworkConsoleInputOutput\05-FormattingNumbers\obj\Debug\05-FormattingNumbers.pdb

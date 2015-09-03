@@ -1,0 +1,9 @@
+D:\dokumenti\VisualStudio2013\04-HomeworkConsoleInputOutput\15-NewHouse\bin\Debug\15-NewHouse.exe.config
+D:\dokumenti\VisualStudio2013\04-HomeworkConsoleInputOutput\15-NewHouse\bin\Debug\15-NewHouse.exe
+D:\dokumenti\VisualStudio2013\04-HomeworkConsoleInputOutput\15-NewHouse\bin\Debug\15-NewHouse.pdb
+D:\dokumenti\VisualStudio2013\04-HomeworkConsoleInputOutput\15-NewHouse\obj\Debug\15-NewHouse.csprojResolveAssemblyReference.cache
+D:\dokumenti\VisualStudio2013\04-HomeworkConsoleInputOutput\15-NewHouse\obj\Debug\15-NewHouse.exe
+D:\dokumenti\VisualStudio2013\04-HomeworkConsoleInputOutput\15-NewHouse\obj\Debug\15-NewHouse.pdb
+C:\Users\Shamy\Downloads\04-HomeworkConsoleInputOutput\15-NewHouse\bin\Debug\15-NewHouse.exe.config
+C:\Users\Shamy\Downloads\04-HomeworkConsoleInputOutput\15-NewHouse\obj\Debug\15-NewHouse.exe
+C:\Users\Shamy\Downloads\04-HomeworkConsoleInputOutput\15-NewHouse\obj\Debug\15-NewHouse.pdb

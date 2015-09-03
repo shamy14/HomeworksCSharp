@@ -1,0 +1,10 @@
+c:\users\shamy\documents\visual studio 2013\Projects\07.LoopsHomework\03. MinMaxSumAndAverageOfNNumbers\bin\Debug\_03.MinMaxSumAndAverageOfNNumbers.exe.config
+c:\users\shamy\documents\visual studio 2013\Projects\07.LoopsHomework\03. MinMaxSumAndAverageOfNNumbers\bin\Debug\_03.MinMaxSumAndAverageOfNNumbers.exe
+c:\users\shamy\documents\visual studio 2013\Projects\07.LoopsHomework\03. MinMaxSumAndAverageOfNNumbers\bin\Debug\_03.MinMaxSumAndAverageOfNNumbers.pdb
+c:\users\shamy\documents\visual studio 2013\Projects\07.LoopsHomework\03. MinMaxSumAndAverageOfNNumbers\obj\Debug\_03.MinMaxSumAndAverageOfNNumbers.exe
+c:\users\shamy\documents\visual studio 2013\Projects\07.LoopsHomework\03. MinMaxSumAndAverageOfNNumbers\obj\Debug\_03.MinMaxSumAndAverageOfNNumbers.pdb
+D:\Shami\Programing Stuff\Homeworks\07.LoopsHomework\03. MinMaxSumAndAverageOfNNumbers\bin\Debug\_03.MinMaxSumAndAverageOfNNumbers.exe.config
+D:\Shami\Programing Stuff\Homeworks\07.LoopsHomework\03. MinMaxSumAndAverageOfNNumbers\obj\Debug\_03.MinMaxSumAndAverageOfNNumbers.exe
+D:\Shami\Programing Stuff\Homeworks\07.LoopsHomework\03. MinMaxSumAndAverageOfNNumbers\obj\Debug\_03.MinMaxSumAndAverageOfNNumbers.pdb
+D:\Shami\Programing Stuff\Homeworks\07.LoopsHomework\03. MinMaxSumAndAverageOfNNumbers\bin\Debug\_03.MinMaxSumAndAverageOfNNumbers.exe
+D:\Shami\Programing Stuff\Homeworks\07.LoopsHomework\03. MinMaxSumAndAverageOfNNumbers\bin\Debug\_03.MinMaxSumAndAverageOfNNumbers.pdb

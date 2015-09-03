@@ -1,0 +1,6 @@
+C:\Users\Shamy\Documents\Visual Studio 2013\Projects\07.LoopsHomework\10.OddAndEvenProduct\bin\Debug\10.OddAndEvenProduct.exe.config
+C:\Users\Shamy\Documents\Visual Studio 2013\Projects\07.LoopsHomework\10.OddAndEvenProduct\bin\Debug\10.OddAndEvenProduct.exe
+C:\Users\Shamy\Documents\Visual Studio 2013\Projects\07.LoopsHomework\10.OddAndEvenProduct\bin\Debug\10.OddAndEvenProduct.pdb
+C:\Users\Shamy\Documents\Visual Studio 2013\Projects\07.LoopsHomework\10.OddAndEvenProduct\obj\Debug\10.OddAndEvenProduct.csprojResolveAssemblyReference.cache
+C:\Users\Shamy\Documents\Visual Studio 2013\Projects\07.LoopsHomework\10.OddAndEvenProduct\obj\Debug\10.OddAndEvenProduct.exe
+C:\Users\Shamy\Documents\Visual Studio 2013\Projects\07.LoopsHomework\10.OddAndEvenProduct\obj\Debug\10.OddAndEvenProduct.pdb

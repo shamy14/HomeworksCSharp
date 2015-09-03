@@ -1,0 +1,8 @@
+D:\dokumenti\VisualStudio2013\04-HomeworkConsoleInputOutput\03-CirclePerimeterArea\bin\Debug\03-CirclePerimeterArea.exe.config
+D:\dokumenti\VisualStudio2013\04-HomeworkConsoleInputOutput\03-CirclePerimeterArea\bin\Debug\03-CirclePerimeterArea.exe
+D:\dokumenti\VisualStudio2013\04-HomeworkConsoleInputOutput\03-CirclePerimeterArea\bin\Debug\03-CirclePerimeterArea.pdb
+D:\dokumenti\VisualStudio2013\04-HomeworkConsoleInputOutput\03-CirclePerimeterArea\obj\Debug\03-CirclePerimeterArea.exe
+D:\dokumenti\VisualStudio2013\04-HomeworkConsoleInputOutput\03-CirclePerimeterArea\obj\Debug\03-CirclePerimeterArea.pdb
+C:\Users\Shamy\Downloads\04-HomeworkConsoleInputOutput\03-CirclePerimeterArea\bin\Debug\03-CirclePerimeterArea.exe.config
+C:\Users\Shamy\Downloads\04-HomeworkConsoleInputOutput\03-CirclePerimeterArea\obj\Debug\03-CirclePerimeterArea.exe
+C:\Users\Shamy\Downloads\04-HomeworkConsoleInputOutput\03-CirclePerimeterArea\obj\Debug\03-CirclePerimeterArea.pdb

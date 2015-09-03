@@ -1,0 +1,5 @@
+c:\users\shamy\documents\visual studio 2013\Projects\Console InputOutput\07SumOfFiveNumbers\bin\Debug\07SumOfFiveNumbers.exe.config
+c:\users\shamy\documents\visual studio 2013\Projects\Console InputOutput\07SumOfFiveNumbers\bin\Debug\07SumOfFiveNumbers.exe
+c:\users\shamy\documents\visual studio 2013\Projects\Console InputOutput\07SumOfFiveNumbers\bin\Debug\07SumOfFiveNumbers.pdb
+c:\users\shamy\documents\visual studio 2013\Projects\Console InputOutput\07SumOfFiveNumbers\obj\Debug\07SumOfFiveNumbers.exe
+c:\users\shamy\documents\visual studio 2013\Projects\Console InputOutput\07SumOfFiveNumbers\obj\Debug\07SumOfFiveNumbers.pdb

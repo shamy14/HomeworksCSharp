@@ -1,0 +1,11 @@
+c:\users\unistudent\documents\visual studio 2013\Projects\Sequence\Sequence\bin\Debug\Sequence.exe.config
+c:\users\unistudent\documents\visual studio 2013\Projects\Sequence\Sequence\bin\Debug\Sequence.exe
+c:\users\unistudent\documents\visual studio 2013\Projects\Sequence\Sequence\bin\Debug\Sequence.pdb
+c:\users\unistudent\documents\visual studio 2013\Projects\Sequence\Sequence\obj\Debug\Sequence.exe
+c:\users\unistudent\documents\visual studio 2013\Projects\Sequence\Sequence\obj\Debug\Sequence.pdb
+C:\Users\UniStudent\Desktop\Homework\Sequence\Sequence\bin\Debug\Sequence.exe.config
+C:\Users\UniStudent\Desktop\Homework\Sequence\Sequence\obj\Debug\Sequence.exe
+C:\Users\UniStudent\Desktop\Homework\Sequence\Sequence\obj\Debug\Sequence.pdb
+C:\Users\UniStudent\Desktop\Homework\Sequence\Sequence\bin\Debug\Sequence.exe
+C:\Users\UniStudent\Desktop\Homework\Sequence\Sequence\bin\Debug\Sequence.pdb
+C:\Users\UniStudent\Desktop\Homework\Sequence\Sequence\obj\Debug\Sequence.csprojResolveAssemblyReference.cache

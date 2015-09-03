@@ -1,0 +1,5 @@
+C:\Users\Shamy\Documents\Visual Studio 2013\Projects\07.LoopsHomework\12.RandomizeTheNumbers1toN\bin\Debug\12.RandomizeTheNumbers1toN.exe.config
+C:\Users\Shamy\Documents\Visual Studio 2013\Projects\07.LoopsHomework\12.RandomizeTheNumbers1toN\bin\Debug\12.RandomizeTheNumbers1toN.exe
+C:\Users\Shamy\Documents\Visual Studio 2013\Projects\07.LoopsHomework\12.RandomizeTheNumbers1toN\bin\Debug\12.RandomizeTheNumbers1toN.pdb
+C:\Users\Shamy\Documents\Visual Studio 2013\Projects\07.LoopsHomework\12.RandomizeTheNumbers1toN\obj\Debug\12.RandomizeTheNumbers1toN.exe
+C:\Users\Shamy\Documents\Visual Studio 2013\Projects\07.LoopsHomework\12.RandomizeTheNumbers1toN\obj\Debug\12.RandomizeTheNumbers1toN.pdb

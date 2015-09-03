@@ -1,0 +1,9 @@
+c:\users\shamy\documents\visual studio 2013\Projects\Console InputOutput\01SumOfThreeNumbers\bin\Debug\01SumOfThreeNumbers.exe.config
+c:\users\shamy\documents\visual studio 2013\Projects\Console InputOutput\01SumOfThreeNumbers\bin\Debug\01SumOfThreeNumbers.exe
+c:\users\shamy\documents\visual studio 2013\Projects\Console InputOutput\01SumOfThreeNumbers\bin\Debug\01SumOfThreeNumbers.pdb
+c:\users\shamy\documents\visual studio 2013\Projects\Console InputOutput\01SumOfThreeNumbers\obj\Debug\01SumOfThreeNumbers.csprojResolveAssemblyReference.cache
+c:\users\shamy\documents\visual studio 2013\Projects\Console InputOutput\01SumOfThreeNumbers\obj\Debug\01SumOfThreeNumbers.exe
+c:\users\shamy\documents\visual studio 2013\Projects\Console InputOutput\01SumOfThreeNumbers\obj\Debug\01SumOfThreeNumbers.pdb
+D:\Shami\Programing Stuff\Homeworks\Console InputOutput\01SumOfThreeNumbers\bin\Debug\01SumOfThreeNumbers.exe.config
+D:\Shami\Programing Stuff\Homeworks\Console InputOutput\01SumOfThreeNumbers\obj\Debug\01SumOfThreeNumbers.exe
+D:\Shami\Programing Stuff\Homeworks\Console InputOutput\01SumOfThreeNumbers\obj\Debug\01SumOfThreeNumbers.pdb

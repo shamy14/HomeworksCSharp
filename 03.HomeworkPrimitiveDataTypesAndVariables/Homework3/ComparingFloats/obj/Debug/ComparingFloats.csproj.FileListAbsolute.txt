@@ -1,0 +1,8 @@
+c:\users\yana\documents\visual studio 2013\Projects\ComparingFloats\ComparingFloats\bin\Debug\ComparingFloats.exe.config
+c:\users\yana\documents\visual studio 2013\Projects\ComparingFloats\ComparingFloats\bin\Debug\ComparingFloats.exe
+c:\users\yana\documents\visual studio 2013\Projects\ComparingFloats\ComparingFloats\bin\Debug\ComparingFloats.pdb
+c:\users\yana\documents\visual studio 2013\Projects\ComparingFloats\ComparingFloats\obj\Debug\ComparingFloats.exe
+c:\users\yana\documents\visual studio 2013\Projects\ComparingFloats\ComparingFloats\obj\Debug\ComparingFloats.pdb
+C:\Users\Shamy\Downloads\Homework-Primitive Data Types and Variables-67353\Homework3\ComparingFloats\bin\Debug\ComparingFloats.exe.config
+C:\Users\Shamy\Downloads\Homework-Primitive Data Types and Variables-67353\Homework3\ComparingFloats\obj\Debug\ComparingFloats.exe
+C:\Users\Shamy\Downloads\Homework-Primitive Data Types and Variables-67353\Homework3\ComparingFloats\obj\Debug\ComparingFloats.pdb

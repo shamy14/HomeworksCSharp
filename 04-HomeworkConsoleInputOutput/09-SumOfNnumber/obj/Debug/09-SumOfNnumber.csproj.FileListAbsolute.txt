@@ -1,0 +1,8 @@
+D:\dokumenti\VisualStudio2013\04-HomeworkConsoleInputOutput\09-SumOfNnumber\bin\Debug\09-SumOfNnumber.exe.config
+D:\dokumenti\VisualStudio2013\04-HomeworkConsoleInputOutput\09-SumOfNnumber\bin\Debug\09-SumOfNnumber.exe
+D:\dokumenti\VisualStudio2013\04-HomeworkConsoleInputOutput\09-SumOfNnumber\bin\Debug\09-SumOfNnumber.pdb
+D:\dokumenti\VisualStudio2013\04-HomeworkConsoleInputOutput\09-SumOfNnumber\obj\Debug\09-SumOfNnumber.exe
+D:\dokumenti\VisualStudio2013\04-HomeworkConsoleInputOutput\09-SumOfNnumber\obj\Debug\09-SumOfNnumber.pdb
+C:\Users\Shamy\Downloads\04-HomeworkConsoleInputOutput\09-SumOfNnumber\bin\Debug\09-SumOfNnumber.exe.config
+C:\Users\Shamy\Downloads\04-HomeworkConsoleInputOutput\09-SumOfNnumber\obj\Debug\09-SumOfNnumber.exe
+C:\Users\Shamy\Downloads\04-HomeworkConsoleInputOutput\09-SumOfNnumber\obj\Debug\09-SumOfNnumber.pdb

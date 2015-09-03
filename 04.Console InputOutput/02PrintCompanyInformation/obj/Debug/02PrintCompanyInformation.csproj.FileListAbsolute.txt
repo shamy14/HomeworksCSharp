@@ -1,0 +1,5 @@
+c:\users\shamy\documents\visual studio 2013\Projects\Console InputOutput\02PrintCompanyInformation\bin\Debug\02PrintCompanyInformation.exe.config
+c:\users\shamy\documents\visual studio 2013\Projects\Console InputOutput\02PrintCompanyInformation\bin\Debug\02PrintCompanyInformation.exe
+c:\users\shamy\documents\visual studio 2013\Projects\Console InputOutput\02PrintCompanyInformation\bin\Debug\02PrintCompanyInformation.pdb
+c:\users\shamy\documents\visual studio 2013\Projects\Console InputOutput\02PrintCompanyInformation\obj\Debug\02PrintCompanyInformation.exe
+c:\users\shamy\documents\visual studio 2013\Projects\Console InputOutput\02PrintCompanyInformation\obj\Debug\02PrintCompanyInformation.pdb

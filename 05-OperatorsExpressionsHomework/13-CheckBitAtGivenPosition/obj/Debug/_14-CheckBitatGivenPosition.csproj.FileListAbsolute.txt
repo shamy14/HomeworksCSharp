@@ -1,0 +1,5 @@
+D:\Work\Operators-Expressions-HomeWork\_14-CheckBitatGivenPosition\bin\Debug\_14-CheckBitatGivenPosition.exe.config
+D:\Work\Operators-Expressions-HomeWork\_14-CheckBitatGivenPosition\bin\Debug\_14-CheckBitatGivenPosition.exe
+D:\Work\Operators-Expressions-HomeWork\_14-CheckBitatGivenPosition\bin\Debug\_14-CheckBitatGivenPosition.pdb
+D:\Work\Operators-Expressions-HomeWork\_14-CheckBitatGivenPosition\obj\Debug\_14-CheckBitatGivenPosition.exe
+D:\Work\Operators-Expressions-HomeWork\_14-CheckBitatGivenPosition\obj\Debug\_14-CheckBitatGivenPosition.pdb

@@ -1,0 +1,8 @@
+D:\Work\Operators-Expressions-HomeWork\_8-PrimeNumberCheck\bin\Debug\_8-PrimeNumberCheck.exe.config
+D:\Work\Operators-Expressions-HomeWork\_8-PrimeNumberCheck\bin\Debug\_8-PrimeNumberCheck.exe
+D:\Work\Operators-Expressions-HomeWork\_8-PrimeNumberCheck\bin\Debug\_8-PrimeNumberCheck.pdb
+D:\Work\Operators-Expressions-HomeWork\_8-PrimeNumberCheck\obj\Debug\_8-PrimeNumberCheck.exe
+D:\Work\Operators-Expressions-HomeWork\_8-PrimeNumberCheck\obj\Debug\_8-PrimeNumberCheck.pdb
+C:\Users\Shamy\Downloads\Operators-Expressions-HomeWork\_8-PrimeNumberCheck\bin\Debug\_8-PrimeNumberCheck.exe.config
+C:\Users\Shamy\Downloads\Operators-Expressions-HomeWork\_8-PrimeNumberCheck\obj\Debug\_8-PrimeNumberCheck.exe
+C:\Users\Shamy\Downloads\Operators-Expressions-HomeWork\_8-PrimeNumberCheck\obj\Debug\_8-PrimeNumberCheck.pdb

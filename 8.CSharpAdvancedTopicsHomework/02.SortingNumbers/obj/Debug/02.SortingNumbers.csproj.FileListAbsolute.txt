@@ -1,0 +1,5 @@
+c:\users\shamy\documents\visual studio 2013\Projects\8.CSharpAdvancedTopicsHomework\02.SortingNumbers\bin\Debug\02.SortingNumbers.exe.config
+c:\users\shamy\documents\visual studio 2013\Projects\8.CSharpAdvancedTopicsHomework\02.SortingNumbers\bin\Debug\02.SortingNumbers.exe
+c:\users\shamy\documents\visual studio 2013\Projects\8.CSharpAdvancedTopicsHomework\02.SortingNumbers\bin\Debug\02.SortingNumbers.pdb
+c:\users\shamy\documents\visual studio 2013\Projects\8.CSharpAdvancedTopicsHomework\02.SortingNumbers\obj\Debug\02.SortingNumbers.exe
+c:\users\shamy\documents\visual studio 2013\Projects\8.CSharpAdvancedTopicsHomework\02.SortingNumbers\obj\Debug\02.SortingNumbers.pdb

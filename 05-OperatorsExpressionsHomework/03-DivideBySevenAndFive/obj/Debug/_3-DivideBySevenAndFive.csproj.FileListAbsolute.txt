@@ -1,0 +1,8 @@
+D:\Work\Operators-Expressions-HomeWork\_3DivideBySevenAndFive\bin\Debug\_3DivideBySevenAndFive.exe.config
+D:\Work\Operators-Expressions-HomeWork\_3DivideBySevenAndFive\bin\Debug\_3DivideBySevenAndFive.exe
+D:\Work\Operators-Expressions-HomeWork\_3DivideBySevenAndFive\bin\Debug\_3DivideBySevenAndFive.pdb
+D:\Work\Operators-Expressions-HomeWork\_3DivideBySevenAndFive\obj\Debug\_3DivideBySevenAndFive.exe
+D:\Work\Operators-Expressions-HomeWork\_3DivideBySevenAndFive\obj\Debug\_3DivideBySevenAndFive.pdb
+C:\Users\Shamy\Downloads\Operators-Expressions-HomeWork\_3DivideBySevenAndFive\bin\Debug\_3DivideBySevenAndFive.exe.config
+C:\Users\Shamy\Downloads\Operators-Expressions-HomeWork\_3DivideBySevenAndFive\obj\Debug\_3DivideBySevenAndFive.exe
+C:\Users\Shamy\Downloads\Operators-Expressions-HomeWork\_3DivideBySevenAndFive\obj\Debug\_3DivideBySevenAndFive.pdb

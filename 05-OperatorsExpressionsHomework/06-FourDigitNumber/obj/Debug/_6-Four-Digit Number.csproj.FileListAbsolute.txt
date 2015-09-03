@@ -1,0 +1,9 @@
+D:\Work\Operators-Expressions-HomeWork\_6-Four-Digit Number\bin\Debug\_6-Four-Digit Number.exe.config
+D:\Work\Operators-Expressions-HomeWork\_6-Four-Digit Number\bin\Debug\_6-Four-Digit Number.exe
+D:\Work\Operators-Expressions-HomeWork\_6-Four-Digit Number\bin\Debug\_6-Four-Digit Number.pdb
+D:\Work\Operators-Expressions-HomeWork\_6-Four-Digit Number\obj\Debug\_6-Four-Digit Number.csprojResolveAssemblyReference.cache
+D:\Work\Operators-Expressions-HomeWork\_6-Four-Digit Number\obj\Debug\_6-Four-Digit Number.exe
+D:\Work\Operators-Expressions-HomeWork\_6-Four-Digit Number\obj\Debug\_6-Four-Digit Number.pdb
+C:\Users\Shamy\Downloads\Operators-Expressions-HomeWork\_6-Four-Digit Number\bin\Debug\_6-Four-Digit Number.exe.config
+C:\Users\Shamy\Downloads\Operators-Expressions-HomeWork\_6-Four-Digit Number\obj\Debug\_6-Four-Digit Number.exe
+C:\Users\Shamy\Downloads\Operators-Expressions-HomeWork\_6-Four-Digit Number\obj\Debug\_6-Four-Digit Number.pdb

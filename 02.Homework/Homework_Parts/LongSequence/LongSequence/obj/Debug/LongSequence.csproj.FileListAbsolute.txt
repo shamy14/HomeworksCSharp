@@ -1,0 +1,14 @@
+c:\users\unistudent\documents\visual studio 2013\Projects\LongSequence\LongSequence\bin\Debug\LongSequence.exe.config
+c:\users\unistudent\documents\visual studio 2013\Projects\LongSequence\LongSequence\bin\Debug\LongSequence.exe
+c:\users\unistudent\documents\visual studio 2013\Projects\LongSequence\LongSequence\bin\Debug\LongSequence.pdb
+c:\users\unistudent\documents\visual studio 2013\Projects\LongSequence\LongSequence\obj\Debug\LongSequence.exe
+c:\users\unistudent\documents\visual studio 2013\Projects\LongSequence\LongSequence\obj\Debug\LongSequence.pdb
+C:\Users\UniStudent\Desktop\Homework\LongSequence\LongSequence\bin\Debug\LongSequence.exe.config
+C:\Users\UniStudent\Desktop\Homework\LongSequence\LongSequence\obj\Debug\LongSequence.exe
+C:\Users\UniStudent\Desktop\Homework\LongSequence\LongSequence\obj\Debug\LongSequence.pdb
+D:\Shami\Programing Stuff\Homeworks\Homework\Homework_Parts\LongSequence\LongSequence\bin\Debug\LongSequence.exe.config
+D:\Shami\Programing Stuff\Homeworks\Homework\Homework_Parts\LongSequence\LongSequence\obj\Debug\LongSequence.exe
+D:\Shami\Programing Stuff\Homeworks\Homework\Homework_Parts\LongSequence\LongSequence\obj\Debug\LongSequence.pdb
+D:\Shami\Programing Stuff\Homeworks\Homework\Homework_Parts\LongSequence\LongSequence\bin\Debug\LongSequence.exe
+D:\Shami\Programing Stuff\Homeworks\Homework\Homework_Parts\LongSequence\LongSequence\bin\Debug\LongSequence.pdb
+D:\Shami\Programing Stuff\Homeworks\Homework\Homework_Parts\LongSequence\LongSequence\obj\Debug\LongSequence.csprojResolveAssemblyReference.cache

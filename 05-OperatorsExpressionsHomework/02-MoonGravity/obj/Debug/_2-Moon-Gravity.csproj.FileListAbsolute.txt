@@ -1,0 +1,8 @@
+D:\Work\Operators-Expressions-HomeWork\_2-Moon-Gravity\bin\Debug\_2-Moon-Gravity.exe.config
+D:\Work\Operators-Expressions-HomeWork\_2-Moon-Gravity\bin\Debug\_2-Moon-Gravity.exe
+D:\Work\Operators-Expressions-HomeWork\_2-Moon-Gravity\bin\Debug\_2-Moon-Gravity.pdb
+D:\Work\Operators-Expressions-HomeWork\_2-Moon-Gravity\obj\Debug\_2-Moon-Gravity.exe
+D:\Work\Operators-Expressions-HomeWork\_2-Moon-Gravity\obj\Debug\_2-Moon-Gravity.pdb
+C:\Users\Shamy\Downloads\Operators-Expressions-HomeWork\_2-Moon-Gravity\bin\Debug\_2-Moon-Gravity.exe.config
+C:\Users\Shamy\Downloads\Operators-Expressions-HomeWork\_2-Moon-Gravity\obj\Debug\_2-Moon-Gravity.exe
+C:\Users\Shamy\Downloads\Operators-Expressions-HomeWork\_2-Moon-Gravity\obj\Debug\_2-Moon-Gravity.pdb

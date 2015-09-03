@@ -1,0 +1,12 @@
+c:\users\unistudent\documents\visual studio 2013\Projects\PrintMyName\PrintMyName\bin\Debug\PrintMyName.exe.config
+c:\users\unistudent\documents\visual studio 2013\Projects\PrintMyName\PrintMyName\bin\Debug\PrintMyName.exe
+c:\users\unistudent\documents\visual studio 2013\Projects\PrintMyName\PrintMyName\bin\Debug\PrintMyName.pdb
+c:\users\unistudent\documents\visual studio 2013\Projects\PrintMyName\PrintMyName\obj\Debug\PrintMyName.csprojResolveAssemblyReference.cache
+c:\users\unistudent\documents\visual studio 2013\Projects\PrintMyName\PrintMyName\obj\Debug\PrintMyName.exe
+c:\users\unistudent\documents\visual studio 2013\Projects\PrintMyName\PrintMyName\obj\Debug\PrintMyName.pdb
+C:\Users\UniStudent\Desktop\Homework\PrintMyName\PrintMyName\bin\Debug\PrintMyName.exe.config
+C:\Users\UniStudent\Desktop\Homework\PrintMyName\PrintMyName\obj\Debug\PrintMyName.exe
+C:\Users\UniStudent\Desktop\Homework\PrintMyName\PrintMyName\obj\Debug\PrintMyName.pdb
+C:\Users\UniStudent\Desktop\Homework\PrintMyName\PrintMyName\bin\Debug\PrintMyName.exe
+C:\Users\UniStudent\Desktop\Homework\PrintMyName\PrintMyName\bin\Debug\PrintMyName.pdb
+C:\Users\UniStudent\Desktop\Homework\PrintMyName\PrintMyName\obj\Debug\PrintMyName.csprojResolveAssemblyReference.cache

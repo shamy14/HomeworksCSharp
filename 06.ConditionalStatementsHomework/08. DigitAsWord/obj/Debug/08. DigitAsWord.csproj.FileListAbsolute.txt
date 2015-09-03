@@ -1,0 +1,5 @@
+C:\Users\Shamy\Documents\Visual Studio 2013\Projects\06.ConditionalStatementsHomework\08. DigitAsWord\bin\Debug\_08.DigitAsWord.exe.config
+C:\Users\Shamy\Documents\Visual Studio 2013\Projects\06.ConditionalStatementsHomework\08. DigitAsWord\bin\Debug\_08.DigitAsWord.exe
+C:\Users\Shamy\Documents\Visual Studio 2013\Projects\06.ConditionalStatementsHomework\08. DigitAsWord\bin\Debug\_08.DigitAsWord.pdb
+C:\Users\Shamy\Documents\Visual Studio 2013\Projects\06.ConditionalStatementsHomework\08. DigitAsWord\obj\Debug\_08.DigitAsWord.exe
+C:\Users\Shamy\Documents\Visual Studio 2013\Projects\06.ConditionalStatementsHomework\08. DigitAsWord\obj\Debug\_08.DigitAsWord.pdb

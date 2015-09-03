@@ -1,0 +1,9 @@
+D:\dokumenti\VisualStudio2013\04-HomeworkConsoleInputOutput\06-QuadraticEquation\bin\Debug\06-QuadraticEquation.exe.config
+D:\dokumenti\VisualStudio2013\04-HomeworkConsoleInputOutput\06-QuadraticEquation\bin\Debug\06-QuadraticEquation.exe
+D:\dokumenti\VisualStudio2013\04-HomeworkConsoleInputOutput\06-QuadraticEquation\bin\Debug\06-QuadraticEquation.pdb
+D:\dokumenti\VisualStudio2013\04-HomeworkConsoleInputOutput\06-QuadraticEquation\obj\Debug\06-QuadraticEquation.csprojResolveAssemblyReference.cache
+D:\dokumenti\VisualStudio2013\04-HomeworkConsoleInputOutput\06-QuadraticEquation\obj\Debug\06-QuadraticEquation.exe
+D:\dokumenti\VisualStudio2013\04-HomeworkConsoleInputOutput\06-QuadraticEquation\obj\Debug\06-QuadraticEquation.pdb
+C:\Users\Shamy\Downloads\04-HomeworkConsoleInputOutput\06-QuadraticEquation\bin\Debug\06-QuadraticEquation.exe.config
+C:\Users\Shamy\Downloads\04-HomeworkConsoleInputOutput\06-QuadraticEquation\obj\Debug\06-QuadraticEquation.exe
+C:\Users\Shamy\Downloads\04-HomeworkConsoleInputOutput\06-QuadraticEquation\obj\Debug\06-QuadraticEquation.pdb

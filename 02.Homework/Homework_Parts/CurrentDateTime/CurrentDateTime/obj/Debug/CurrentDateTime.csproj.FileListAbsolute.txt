@@ -1,0 +1,24 @@
+c:\users\unistudent\documents\visual studio 2013\Projects\CurrentDateTime\CurrentDateTime\bin\Debug\CurrentDateTime.exe.config
+c:\users\unistudent\documents\visual studio 2013\Projects\CurrentDateTime\CurrentDateTime\bin\Debug\CurrentDateTime.exe
+c:\users\unistudent\documents\visual studio 2013\Projects\CurrentDateTime\CurrentDateTime\bin\Debug\CurrentDateTime.pdb
+c:\users\unistudent\documents\visual studio 2013\Projects\CurrentDateTime\CurrentDateTime\obj\Debug\CurrentDateTime.csprojResolveAssemblyReference.cache
+c:\users\unistudent\documents\visual studio 2013\Projects\CurrentDateTime\CurrentDateTime\obj\Debug\CurrentDateTime.exe
+c:\users\unistudent\documents\visual studio 2013\Projects\CurrentDateTime\CurrentDateTime\obj\Debug\CurrentDateTime.pdb
+C:\Users\UniStudent\Desktop\Homework\CurrentDateTime\CurrentDateTime\bin\Debug\CurrentDateTime.exe.config
+C:\Users\UniStudent\Desktop\Homework\CurrentDateTime\CurrentDateTime\obj\Debug\CurrentDateTime.exe
+C:\Users\UniStudent\Desktop\Homework\CurrentDateTime\CurrentDateTime\obj\Debug\CurrentDateTime.pdb
+C:\Users\UniStudent\Desktop\Homework\Homework_Parts\CurrentDateTime\CurrentDateTime\bin\Debug\CurrentDateTime.exe.config
+C:\Users\UniStudent\Desktop\Homework\Homework_Parts\CurrentDateTime\CurrentDateTime\obj\Debug\CurrentDateTime.exe
+C:\Users\UniStudent\Desktop\Homework\Homework_Parts\CurrentDateTime\CurrentDateTime\obj\Debug\CurrentDateTime.pdb
+C:\Users\Shamy\Downloads\Homework\Homework_Parts\CurrentDateTime\CurrentDateTime\bin\Debug\CurrentDateTime.exe.config
+C:\Users\Shamy\Downloads\Homework\Homework_Parts\CurrentDateTime\CurrentDateTime\obj\Debug\CurrentDateTime.exe
+C:\Users\Shamy\Downloads\Homework\Homework_Parts\CurrentDateTime\CurrentDateTime\obj\Debug\CurrentDateTime.pdb
+C:\Users\Shamy\Downloads\Homework\Homework_Parts\CurrentDateTime\CurrentDateTime\bin\Debug\CurrentDateTime.exe
+C:\Users\Shamy\Downloads\Homework\Homework_Parts\CurrentDateTime\CurrentDateTime\bin\Debug\CurrentDateTime.pdb
+C:\Users\Shamy\Downloads\Homework\Homework_Parts\CurrentDateTime\CurrentDateTime\obj\Debug\CurrentDateTime.csprojResolveAssemblyReference.cache
+D:\Shami\Programing Stuff\Homeworks\Homework\Homework_Parts\CurrentDateTime\CurrentDateTime\bin\Debug\CurrentDateTime.exe.config
+D:\Shami\Programing Stuff\Homeworks\Homework\Homework_Parts\CurrentDateTime\CurrentDateTime\obj\Debug\CurrentDateTime.exe
+D:\Shami\Programing Stuff\Homeworks\Homework\Homework_Parts\CurrentDateTime\CurrentDateTime\obj\Debug\CurrentDateTime.pdb
+D:\Shami\Programing Stuff\Homeworks\Homework\Homework_Parts\CurrentDateTime\CurrentDateTime\bin\Debug\CurrentDateTime.exe
+D:\Shami\Programing Stuff\Homeworks\Homework\Homework_Parts\CurrentDateTime\CurrentDateTime\bin\Debug\CurrentDateTime.pdb
+D:\Shami\Programing Stuff\Homeworks\Homework\Homework_Parts\CurrentDateTime\CurrentDateTime\obj\Debug\CurrentDateTime.csprojResolveAssemblyReference.cache

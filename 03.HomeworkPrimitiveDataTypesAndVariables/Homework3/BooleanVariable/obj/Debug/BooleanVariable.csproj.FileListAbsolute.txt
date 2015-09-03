@@ -1,0 +1,5 @@
+c:\users\yana\documents\visual studio 2013\Projects\Homework3\BooleanVariable\bin\Debug\BooleanVariable.exe.config
+c:\users\yana\documents\visual studio 2013\Projects\Homework3\BooleanVariable\bin\Debug\BooleanVariable.exe
+c:\users\yana\documents\visual studio 2013\Projects\Homework3\BooleanVariable\bin\Debug\BooleanVariable.pdb
+c:\users\yana\documents\visual studio 2013\Projects\Homework3\BooleanVariable\obj\Debug\BooleanVariable.exe
+c:\users\yana\documents\visual studio 2013\Projects\Homework3\BooleanVariable\obj\Debug\BooleanVariable.pdb

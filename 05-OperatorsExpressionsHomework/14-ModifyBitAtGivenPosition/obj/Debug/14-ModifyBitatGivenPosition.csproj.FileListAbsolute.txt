@@ -1,0 +1,5 @@
+C:\Users\Shamy\Downloads\Operators-Expressions-HomeWork\_14-ModifyBitatGivenPosition\bin\Debug\_14-ModifyBitatGivenPosition.exe.config
+C:\Users\Shamy\Downloads\Operators-Expressions-HomeWork\_14-ModifyBitatGivenPosition\obj\Debug\_14-ModifyBitatGivenPosition.exe
+C:\Users\Shamy\Downloads\Operators-Expressions-HomeWork\_14-ModifyBitatGivenPosition\obj\Debug\_14-ModifyBitatGivenPosition.pdb
+C:\Users\Shamy\Downloads\Operators-Expressions-HomeWork\_14-ModifyBitatGivenPosition\bin\Debug\_14-ModifyBitatGivenPosition.exe
+C:\Users\Shamy\Downloads\Operators-Expressions-HomeWork\_14-ModifyBitatGivenPosition\bin\Debug\_14-ModifyBitatGivenPosition.pdb

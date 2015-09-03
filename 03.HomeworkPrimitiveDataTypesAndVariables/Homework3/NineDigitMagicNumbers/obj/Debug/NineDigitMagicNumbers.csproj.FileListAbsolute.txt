@@ -1,0 +1,12 @@
+c:\users\yana\documents\visual studio 2013\Projects\NineDigitMagicNumbers\NineDigitMagicNumbers\bin\Debug\NineDigitMagicNumbers.exe.config
+c:\users\yana\documents\visual studio 2013\Projects\NineDigitMagicNumbers\NineDigitMagicNumbers\bin\Debug\NineDigitMagicNumbers.exe
+c:\users\yana\documents\visual studio 2013\Projects\NineDigitMagicNumbers\NineDigitMagicNumbers\bin\Debug\NineDigitMagicNumbers.pdb
+c:\users\yana\documents\visual studio 2013\Projects\NineDigitMagicNumbers\NineDigitMagicNumbers\obj\Debug\NineDigitMagicNumbers.csprojResolveAssemblyReference.cache
+c:\users\yana\documents\visual studio 2013\Projects\NineDigitMagicNumbers\NineDigitMagicNumbers\obj\Debug\NineDigitMagicNumbers.exe
+c:\users\yana\documents\visual studio 2013\Projects\NineDigitMagicNumbers\NineDigitMagicNumbers\obj\Debug\NineDigitMagicNumbers.pdb
+C:\Users\Shamy\Downloads\Homework-Primitive Data Types and Variables-67353\Homework3\NineDigitMagicNumbers\bin\Debug\NineDigitMagicNumbers.exe.config
+C:\Users\Shamy\Downloads\Homework-Primitive Data Types and Variables-67353\Homework3\NineDigitMagicNumbers\obj\Debug\NineDigitMagicNumbers.exe
+C:\Users\Shamy\Downloads\Homework-Primitive Data Types and Variables-67353\Homework3\NineDigitMagicNumbers\obj\Debug\NineDigitMagicNumbers.pdb
+C:\Users\Shamy\Downloads\Homework-Primitive Data Types and Variables-67353\Homework3\NineDigitMagicNumbers\bin\Debug\NineDigitMagicNumbers.exe
+C:\Users\Shamy\Downloads\Homework-Primitive Data Types and Variables-67353\Homework3\NineDigitMagicNumbers\bin\Debug\NineDigitMagicNumbers.pdb
+C:\Users\Shamy\Downloads\Homework-Primitive Data Types and Variables-67353\Homework3\NineDigitMagicNumbers\obj\Debug\NineDigitMagicNumbers.csprojResolveAssemblyReference.cache

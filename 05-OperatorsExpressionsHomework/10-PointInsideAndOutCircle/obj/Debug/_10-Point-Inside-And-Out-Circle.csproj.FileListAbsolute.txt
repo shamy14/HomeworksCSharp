@@ -1,0 +1,8 @@
+D:\Work\Operators-Expressions-HomeWork\_10-Point-Inside-And-Out-Circle\bin\Debug\_10-Point-Inside-And-Out-Circle.exe.config
+D:\Work\Operators-Expressions-HomeWork\_10-Point-Inside-And-Out-Circle\bin\Debug\_10-Point-Inside-And-Out-Circle.exe
+D:\Work\Operators-Expressions-HomeWork\_10-Point-Inside-And-Out-Circle\bin\Debug\_10-Point-Inside-And-Out-Circle.pdb
+D:\Work\Operators-Expressions-HomeWork\_10-Point-Inside-And-Out-Circle\obj\Debug\_10-Point-Inside-And-Out-Circle.exe
+D:\Work\Operators-Expressions-HomeWork\_10-Point-Inside-And-Out-Circle\obj\Debug\_10-Point-Inside-And-Out-Circle.pdb
+C:\Users\Shamy\Downloads\Operators-Expressions-HomeWork\_10-Point-Inside-And-Out-Circle\bin\Debug\_10-Point-Inside-And-Out-Circle.exe.config
+C:\Users\Shamy\Downloads\Operators-Expressions-HomeWork\_10-Point-Inside-And-Out-Circle\obj\Debug\_10-Point-Inside-And-Out-Circle.exe
+C:\Users\Shamy\Downloads\Operators-Expressions-HomeWork\_10-Point-Inside-And-Out-Circle\obj\Debug\_10-Point-Inside-And-Out-Circle.pdb

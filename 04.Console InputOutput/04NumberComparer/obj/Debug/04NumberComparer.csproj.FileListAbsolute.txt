@@ -1,0 +1,5 @@
+c:\users\shamy\documents\visual studio 2013\Projects\Console InputOutput\04NumberComparer\bin\Debug\04NumberComparer.exe.config
+c:\users\shamy\documents\visual studio 2013\Projects\Console InputOutput\04NumberComparer\bin\Debug\04NumberComparer.exe
+c:\users\shamy\documents\visual studio 2013\Projects\Console InputOutput\04NumberComparer\bin\Debug\04NumberComparer.pdb
+c:\users\shamy\documents\visual studio 2013\Projects\Console InputOutput\04NumberComparer\obj\Debug\04NumberComparer.exe
+c:\users\shamy\documents\visual studio 2013\Projects\Console InputOutput\04NumberComparer\obj\Debug\04NumberComparer.pdb

@@ -1,0 +1,8 @@
+D:\Work\Operators-Expressions-HomeWork\_4-⦁ Rectangles\bin\Debug\_4-⦁ Rectangles.exe.config
+D:\Work\Operators-Expressions-HomeWork\_4-⦁ Rectangles\bin\Debug\_4-⦁ Rectangles.exe
+D:\Work\Operators-Expressions-HomeWork\_4-⦁ Rectangles\bin\Debug\_4-⦁ Rectangles.pdb
+D:\Work\Operators-Expressions-HomeWork\_4-⦁ Rectangles\obj\Debug\_4-⦁ Rectangles.exe
+D:\Work\Operators-Expressions-HomeWork\_4-⦁ Rectangles\obj\Debug\_4-⦁ Rectangles.pdb
+C:\Users\Shamy\Downloads\Operators-Expressions-HomeWork\_4-⦁ Rectangles\bin\Debug\_4-⦁ Rectangles.exe.config
+C:\Users\Shamy\Downloads\Operators-Expressions-HomeWork\_4-⦁ Rectangles\obj\Debug\_4-⦁ Rectangles.exe
+C:\Users\Shamy\Downloads\Operators-Expressions-HomeWork\_4-⦁ Rectangles\obj\Debug\_4-⦁ Rectangles.pdb

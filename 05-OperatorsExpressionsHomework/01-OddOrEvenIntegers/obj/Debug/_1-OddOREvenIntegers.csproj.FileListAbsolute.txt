@@ -1,0 +1,12 @@
+D:\Work\Operators-Expressions-HomeWork\_1-OddOREvenIntegers\bin\Debug\_1-OddOREvenIntegers.exe.config
+D:\Work\Operators-Expressions-HomeWork\_1-OddOREvenIntegers\bin\Debug\_1-OddOREvenIntegers.exe
+D:\Work\Operators-Expressions-HomeWork\_1-OddOREvenIntegers\bin\Debug\_1-OddOREvenIntegers.pdb
+D:\Work\Operators-Expressions-HomeWork\_1-OddOREvenIntegers\obj\Debug\_1-OddOREvenIntegers.csprojResolveAssemblyReference.cache
+D:\Work\Operators-Expressions-HomeWork\_1-OddOREvenIntegers\obj\Debug\_1-OddOREvenIntegers.exe
+D:\Work\Operators-Expressions-HomeWork\_1-OddOREvenIntegers\obj\Debug\_1-OddOREvenIntegers.pdb
+C:\Users\Shamy\Downloads\Operators-Expressions-HomeWork\_1-OddOREvenIntegers\bin\Debug\_1-OddOREvenIntegers.exe.config
+C:\Users\Shamy\Downloads\Operators-Expressions-HomeWork\_1-OddOREvenIntegers\obj\Debug\_1-OddOREvenIntegers.exe
+C:\Users\Shamy\Downloads\Operators-Expressions-HomeWork\_1-OddOREvenIntegers\obj\Debug\_1-OddOREvenIntegers.pdb
+C:\Users\Shamy\Downloads\Operators-Expressions-HomeWork\_1-OddOREvenIntegers\bin\Debug\_1-OddOREvenIntegers.exe
+C:\Users\Shamy\Downloads\Operators-Expressions-HomeWork\_1-OddOREvenIntegers\bin\Debug\_1-OddOREvenIntegers.pdb
+C:\Users\Shamy\Downloads\Operators-Expressions-HomeWork\_1-OddOREvenIntegers\obj\Debug\_1-OddOREvenIntegers.csprojResolveAssemblyReference.cache

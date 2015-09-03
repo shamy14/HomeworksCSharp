@@ -1,0 +1,11 @@
+c:\users\unistudent\documents\visual studio 2013\Projects\PrintFirstAndLastName\PrintFirstAndLastName\bin\Debug\PrintFirstAndLastName.exe.config
+c:\users\unistudent\documents\visual studio 2013\Projects\PrintFirstAndLastName\PrintFirstAndLastName\bin\Debug\PrintFirstAndLastName.exe
+c:\users\unistudent\documents\visual studio 2013\Projects\PrintFirstAndLastName\PrintFirstAndLastName\bin\Debug\PrintFirstAndLastName.pdb
+c:\users\unistudent\documents\visual studio 2013\Projects\PrintFirstAndLastName\PrintFirstAndLastName\obj\Debug\PrintFirstAndLastName.exe
+c:\users\unistudent\documents\visual studio 2013\Projects\PrintFirstAndLastName\PrintFirstAndLastName\obj\Debug\PrintFirstAndLastName.pdb
+C:\Users\UniStudent\Desktop\Homework\PrintFirstAndLastName\PrintFirstAndLastName\bin\Debug\PrintFirstAndLastName.exe.config
+C:\Users\UniStudent\Desktop\Homework\PrintFirstAndLastName\PrintFirstAndLastName\obj\Debug\PrintFirstAndLastName.exe
+C:\Users\UniStudent\Desktop\Homework\PrintFirstAndLastName\PrintFirstAndLastName\obj\Debug\PrintFirstAndLastName.pdb
+C:\Users\UniStudent\Desktop\Homework\PrintFirstAndLastName\PrintFirstAndLastName\bin\Debug\PrintFirstAndLastName.exe
+C:\Users\UniStudent\Desktop\Homework\PrintFirstAndLastName\PrintFirstAndLastName\bin\Debug\PrintFirstAndLastName.pdb
+C:\Users\UniStudent\Desktop\Homework\PrintFirstAndLastName\PrintFirstAndLastName\obj\Debug\PrintFirstAndLastName.csprojResolveAssemblyReference.cache
